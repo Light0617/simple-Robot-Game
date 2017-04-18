@@ -1,5 +1,6 @@
 # simple-Robot-Game
 This is a simple Robot Game with Java
+Given a starting position [x,y] (0<x,y<9), initial direction faced (W, S, N, E) on 8 x 8 square board and sequence of actions for a robot, print the outcome; direction faced and position on the board.
 
 # How to use?
 1. open world class with intelliJ IDE
